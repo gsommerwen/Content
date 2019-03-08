@@ -1,8 +1,4 @@
-# byMe
-mein erster TEST
-beginnt in zeile 4 oder 5
-einen Tag später 
-keine besonderen vorkommnisse
+# Baubeschreibungen Neubauten
 
-Quelle Baubeschreibung
+Quelle
 http://sbservices.de/php/redaktion2/immobilienberatung141.html
